@@ -7,4 +7,4 @@ max 18 digit numbers.
 
 100! has something nearly 160 digits.
 
-So to solve this problem we will use arrays to store the digits after we interatively multiply them.
+So to solve this problem we will use arrays to store the digits after we iteratively multiply them.
